@@ -1,6 +1,6 @@
 # Tan Yuxin Blog
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)
+### [View Live Tanyuxin Blog &rarr;](https://huangxuan.me)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
@@ -24,7 +24,7 @@ $ git clone git@github.com:yuxintan/yuxintan.github.io.git
 
 ## Translation
 
- - ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **Chinese (Simplified)**: 感谢 [@BrucZhaoR](https://github.com/BruceZhaoR) 的 [中文翻译 &rarr;](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)
+ - ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **Chinese (Simplified)**: 感谢 [@BrucZhaoR](https://github.com/BruceZhaoR) 的 [中文翻译 &rarr;](https://github.com/Tanyuxinpro/huxpro.github.io/blob/master/README.zh.md)
 
 ## Releases
 
@@ -51,7 +51,7 @@ Thanks [@kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-t
 
 - Annoyed to delete my blog post after clone or pull? **Boilerplate** comes to help you get started quickly and easily merge update.
 - `-apple-system` is added in font rule, which display beautiful new font **San Francisco** in iOS 9 by default.
-- Fixed [issue#15](https://github.com/Huxpro/huxpro.github.io/issues/15) about code wrap.
+- Fixed [issue#15](https://github.com/Tanyuxinpro/huxpro.github.io/issues/15) about code wrap.
 
 ##### V1.5.1
 
@@ -302,7 +302,7 @@ There are a number of tasks it performs like minification of the JavaScript, com
 
 #### Header Image
 
-Change header images of any pages or any posts is pretty easy as mentioned above. But, thanks to [issue #6 (in Chinese)](https://github.com/Huxpro/huxpro.github.io/issues/6) asked, **how to make it looks great?**
+Change header images of any pages or any posts is pretty easy as mentioned above. But, thanks to [issue #6 (in Chinese)](https://github.com/Tanyuxinpro/huxpro.github.io/issues/6) asked, **how to make it looks great?**
 
 **Well...it is actually a design issue**, not a coding stuff. It is better that you have basic design knowledge, but not is ok, let me told you how to make it well-designed:
 
@@ -314,7 +314,7 @@ In technical views, it can be done with CSS. However, the opacity of the black o
 #### SEO Title
 
 Before V1.4, site setting `title` is not only used for displayed in Home Page and Navbar, but also used to generate the `<title>` in HTML.
-It's possible that you want the two things different. For me, my site-title is **“Hux Blog”** but I want the title shows in search engine is **“Yuxin的博客 | Yuxin Blog”** which is multi-language.
+It's possible that you want the two things different. For me, my site-title is **“Tanyuxin Blog”** but I want the title shows in search engine is **“Yuxin的博客 | Yuxin Blog”** which is multi-language.
 
 So, the SEO Title is introduced to solve this problem, you can set `SEOTitle` different from `title`, and it would be only used to generate HTML `<title>` and setting DuoShuo Sharing.
 
@@ -350,7 +350,7 @@ This blog started in Jekyll 2 time when `jekyll-paginate` is standard. With Jeky
 ## License
 
 Apache License 2.0.
-Copyright (c) 2015-2016 Huxpro
+Copyright (c) 2015-2016 Tanyuxinpro
 
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
+Tanyuxin Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.
